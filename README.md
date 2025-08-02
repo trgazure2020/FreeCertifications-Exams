@@ -45,10 +45,12 @@ https://education.securiti.ai/certifications/ai-governance/introduction-ai-gover
 
 Register in AWS Skill builder to explore 1000' of courses for free
 
-https://skillbuilder.aws/
+https://skillbuilder.aws
 
 
-**6.  FREE DevOps for beginners Live Cohort this Sunday - 3 Aug at 08:00 EET (Finland time). **
+**6.  FREE DevOps for beginners Live**
+
+Cohort this Sunday - 3 Aug at 08:00 EET (Finland time)
 
 The cohort is 100% free and covers Docker, Kubernetes, Cloud(AWS and Azure), CI/CD, plus four real projects
 
@@ -58,3 +60,17 @@ First live class: Saturday, 9 August, 07:30 EET
 Apply here: https://lnkd.in/gutXwJBc
 
 this is an intensive 12-week program (adjusted from 8 to 12 week now), so commitment matters.
+
+
+**7. Introduction to Computer Science Engineering - Course & Full playlist**
+
+https://pll.harvard.edu/course/cs50-introduction-computer-science
+
+https://www.youtube.com/watch?v=h6lqxDwUmJQ&list=PLhQjrBD2T383q7Vn8QnTsVgSvyLpsqL_R
+
+**8. Python for Beginners by Deeplearning.AI**
+
+https://www.deeplearning.ai/short-courses/ai-python-for-beginners/
+
+   
+   
