@@ -82,13 +82,18 @@ https://www.youtube.com/watch?v=h6lqxDwUmJQ&list=PLhQjrBD2T383q7Vn8QnTsVgSvyLpsq
 
 https://www.deeplearning.ai/short-courses/ai-python-for-beginners/
 
-**3. TOP Courses in FreeCodecamp**
+**3. TOP Courses in Datascience**
 
 1. Machine Learning with Python (CS229) Playlist : https://www.youtube.com/watch?v=jGwO_UgTS7I&list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU
 
 2. GenAI Essentials : https://www.youtube.com/watch?v=nJ25yl34Uqw
 
-3. Artificial Intelligence with Python :  https://www.youtube.com/watch?v=5NgNicANyqM5. 
+3. Artificial Intelligence with Python :  https://www.youtube.com/watch?v=5NgNicANyqM5.
+
+4. CS109 : http://cs109.github.io/2015/pages/videos.html
+
+5. Machine learning Course : https://mlcourse.ai/book/index.html
+
    
 
 **C. DEVOPS, SRE, AUTOMATION**
@@ -106,8 +111,8 @@ If you need more practice and hands on experience you can attend Gremlin bootcam
 
 **D. DATA STRUCTURES, ALGORITHMS, CORE CSE, DESIGN PATTERNS IN ENGINEERING**
 ==========================
-1. TBC
-2. TBC
+1. System Design primer : https://www.youtube.com/playlist?list=PLTCrU9sGyburBw9wNOHebv9SjlE4Elv5a
+2. Data structures : https://www.youtube.com/watch?v=8hly31xKli0
 
 
 
