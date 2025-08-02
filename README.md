@@ -111,5 +111,11 @@ If you need more practice and hands on experience you can attend Gremlin bootcam
 
 **F. Cybersecurity, Ethical Hacking Certifications**
 ==========================
-1. TBC
-2. TBC
+1. Try Hackme : https://tryhackme.com/
+
+Security Basics : https://tryhackme.com/path/outline/presecurity
+Introduction to Cybersecurity : https://tryhackme.com/path/outline/presecurity
+
+2. Websecurity Academy : https://portswigger.net/web-security/learning-paths
+
+3. Hackthebox : https://academy.hackthebox.com/
