@@ -68,9 +68,7 @@ this is an intensive 12-week program (adjusted from 8 to 12 week now), so commit
 
   3. AZ-104 : https://learn.microsoft.com/en-us/training/courses/az-104t00
 
-   9. 
 
-   10. 
 
 **B. DATASCIENC, MACHINE LEARNING, GENAI**
 ==========================
