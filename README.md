@@ -72,5 +72,11 @@ https://www.youtube.com/watch?v=h6lqxDwUmJQ&list=PLhQjrBD2T383q7Vn8QnTsVgSvyLpsq
 
 https://www.deeplearning.ai/short-courses/ai-python-for-beginners/
 
-   
+**9. TOP Courses in FreeCodecamp**
+
+1. Machine Learning with Python (CS229) Playlist : https://www.youtube.com/watch?v=jGwO_UgTS7I&list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU
+
+2. GenAI Essentials : https://www.youtube.com/watch?v=nJ25yl34Uqw
+
+3. Artificial Intelligence with Python :  https://www.youtube.com/watch?v=5NgNicANyqM5. 
    
