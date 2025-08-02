@@ -26,3 +26,25 @@ Register for Upcoming Quarterly cohort for free vouchers
 https://cloud.google.com/innovators/getcertified?hl=en
 
  https://services.google.com/fh/files/misc/getcertifiedrereginstructions.pdf
+
+
+** 3. GREMLIN CHAOS Engineering Practioner**
+
+https://www.gremlin.com/certification#get-certified
+
+Gremlin Tutorial: https://www.gremlin.com/community/tutorials/?ref=nav
+Gremlin YouTube Channel: https://www.youtube.com/channel/UC6PAoCqf2LSw6Hth-4M4yEQ
+If you need more practice and hands on experience you can attend Gremlin bootcamp https://www.gremlin.com/bootcamps/?ref=nav
+
+**4. AI Security & Governance**
+
+https://education.securiti.ai/certifications/ai-governance/introduction-ai-governance/overview-introduction-to-ai-governance-certification/
+
+
+**5. AWS Cloud Practitioner**
+
+Register in AWS Skill builder to explore 1000' of courses for free
+
+https://skillbuilder.aws/
+
+
