@@ -47,4 +47,13 @@ Register in AWS Skill builder to explore 1000' of courses for free
 
 https://skillbuilder.aws/
 
+**6.  FREE DevOps for beginners Live Cohort this Sunday - 3 Aug at 08:00 EET (Finland time). **
 
+The cohort is 100% free and covers Docker, Kubernetes, Cloud(AWS and Azure), CI/CD, plus four real projects
+
+Application deadline: Sunday, 3 August, 08:00 EET
+First live class: Saturday, 9 August, 07:30 EET
+
+Apply here: https://lnkd.in/gutXwJBc
+
+this is an intensive 12-week program (adjusted from 8 to 12 week now), so commitment matters.
