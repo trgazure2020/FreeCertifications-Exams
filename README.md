@@ -87,13 +87,20 @@ https://www.deeplearning.ai/short-courses/ai-python-for-beginners/
 **C. DEVOPS, SRE, AUTOMATION**
 ==========================
 
-
+1. TBC
+2. TBC
 
 
 **D. DATA STRUCTURES, ALGORITHMS, CORE CSE, DESIGN PATTERNS IN ENGINEERING**
 ==========================
+1. TBC
+2. TBC
 
 
 
 
+**E. BEST CODING, HACKOTHON PUBLIC DOMAIN PROJECTS**
+==========================
 
+1. TBC
+2. TBC
