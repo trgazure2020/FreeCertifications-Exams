@@ -2,7 +2,7 @@
 
 **1. ORACLE RACE to Certifications 2025**
 
-https://education.oracle.com/race-to-certification-2025-program-overview
+https://education.oracle.com/race-to-certification-2025-program-overview (Tentative expiry - FiFO - Aug 2025)
 
 Start Now
 Follow these instructions to begin:
@@ -17,3 +17,12 @@ c. Browse the curated list of learning paths and certifications on the promotion
 Select a learning path.
 Complete the training and earn certifications to advance through Levels 1, 2, and 3 in Race to Certification 2025 and unlock awards.
 Share your certification on social media by using the digital promotion kit you will receive on completing each level.
+
+
+**2. Get Certified with Google**
+
+Register for Upcoming Quarterly cohort for free vouchers
+
+https://cloud.google.com/innovators/getcertified?hl=en
+
+ https://services.google.com/fh/files/misc/getcertifiedrereginstructions.pdf
