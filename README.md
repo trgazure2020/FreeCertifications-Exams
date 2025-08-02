@@ -30,27 +30,20 @@ https://cloud.google.com/innovators/getcertified?hl=en
  https://services.google.com/fh/files/misc/getcertifiedrereginstructions.pdf
 
 
-** 3. GREMLIN CHAOS Engineering Practioner**
 
-https://www.gremlin.com/certification#get-certified
-
-Gremlin Tutorial: https://www.gremlin.com/community/tutorials/?ref=nav
-Gremlin YouTube Channel: https://www.youtube.com/channel/UC6PAoCqf2LSw6Hth-4M4yEQ
-If you need more practice and hands on experience you can attend Gremlin bootcamp https://www.gremlin.com/bootcamps/?ref=nav
-
-**4. AI Security & Governance**
+**3. AI Security & Governance**
 
 https://education.securiti.ai/certifications/ai-governance/introduction-ai-governance/overview-introduction-to-ai-governance-certification/
 
 
-**5. AWS Cloud Practitioner**
+**4. AWS Cloud Practitioner**
 
 Register in AWS Skill builder to explore 1000' of courses for free
 
 https://skillbuilder.aws
 
 
-**6.  FREE DevOps for beginners Live**
+**5.  FREE DevOps for beginners Live**
 
 Cohort this Sunday - 3 Aug at 08:00 EET (Finland time)
 
@@ -63,19 +56,23 @@ Apply here: https://lnkd.in/gutXwJBc
 
 this is an intensive 12-week program (adjusted from 8 to 12 week now), so commitment matters.
 
+**6. Confluent Kafka Data streaming course & Certification**
+
+   https://developer.confluent.io/certification/
+
 **B. DATASCIENC, MACHINE LEARNING, GENAI**
 ==========================
-**7. Introduction to Computer Science Engineering - Course & Full playlist**
+**1. Introduction to Computer Science Engineering - Course & Full playlist**
 
 https://pll.harvard.edu/course/cs50-introduction-computer-science
 
 https://www.youtube.com/watch?v=h6lqxDwUmJQ&list=PLhQjrBD2T383q7Vn8QnTsVgSvyLpsqL_R
 
-**8. Python for Beginners by Deeplearning.AI**
+**2. Python for Beginners by Deeplearning.AI**
 
 https://www.deeplearning.ai/short-courses/ai-python-for-beginners/
 
-**9. TOP Courses in FreeCodecamp**
+**3. TOP Courses in FreeCodecamp**
 
 1. Machine Learning with Python (CS229) Playlist : https://www.youtube.com/watch?v=jGwO_UgTS7I&list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU
 
@@ -87,8 +84,14 @@ https://www.deeplearning.ai/short-courses/ai-python-for-beginners/
 **C. DEVOPS, SRE, AUTOMATION**
 ==========================
 
-1. TBC
-2. TBC
+**1. GREMLIN CHAOS Engineering Practioner**
+
+https://www.gremlin.com/certification#get-certified
+
+Gremlin Tutorial: https://www.gremlin.com/community/tutorials/?ref=nav
+Gremlin YouTube Channel: https://www.youtube.com/channel/UC6PAoCqf2LSw6Hth-4M4yEQ
+If you need more practice and hands on experience you can attend Gremlin bootcamp https://www.gremlin.com/bootcamps/?ref=nav
+
 
 
 **D. DATA STRUCTURES, ALGORITHMS, CORE CSE, DESIGN PATTERNS IN ENGINEERING**
