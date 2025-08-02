@@ -1,5 +1,7 @@
 # FreeCertifications-Exams
 
+**A. CLOUD**
+==========================
 **1. ORACLE RACE to Certifications 2025**
 
 https://education.oracle.com/race-to-certification-2025-program-overview (Tentative expiry - FiFO - Aug 2025)
@@ -61,7 +63,8 @@ Apply here: https://lnkd.in/gutXwJBc
 
 this is an intensive 12-week program (adjusted from 8 to 12 week now), so commitment matters.
 
-
+**B. DATASCIENC, MACHINE LEARNING, GENAI**
+==========================
 **7. Introduction to Computer Science Engineering - Course & Full playlist**
 
 https://pll.harvard.edu/course/cs50-introduction-computer-science
@@ -80,3 +83,17 @@ https://www.deeplearning.ai/short-courses/ai-python-for-beginners/
 
 3. Artificial Intelligence with Python :  https://www.youtube.com/watch?v=5NgNicANyqM5. 
    
+
+**C. DEVOPS, SRE, AUTOMATION**
+==========================
+
+
+
+
+**D. DATA STRUCTURES, ALGORITHMS, CORE CSE, DESIGN PATTERNS IN ENGINEERING**
+==========================
+
+
+
+
+
