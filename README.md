@@ -147,3 +147,16 @@ Introduction to Cybersecurity : https://tryhackme.com/path/outline/presecurity
 2. Websecurity Academy : https://portswigger.net/web-security/learning-paths
 
 3. Hackthebox : https://academy.hackthebox.com/
+
+**G. TOP Learning Platforms**
+==========================
+1. Udemy
+2. Springboard
+3. LinkedIn
+4. Coursera
+5. Google certified
+6. AWS Educate
+7. Salesforce trailhead
+8. Simplilearn
+9. Greatlearning
+10. Pluralsight
