@@ -160,3 +160,27 @@ Introduction to Cybersecurity : https://tryhackme.com/path/outline/presecurity
 8. Simplilearn
 9. Greatlearning
 10. Pluralsight
+
+
+⚔️Cybersecurity Tools By Category 			
+|🔶Information Gathering|	🔶Exploitation	|🔶Password Cracking|	🔶Vulnerability Scanning|
+|🔹 Nmap	|🔹Burp Suite	|🔹John The Ripper|	🔹OpenVAS|
+|🔹 Shodan	|🔹Metasploit Framework 	|🔹Hydra	|🔹Nessus |
+|🔹Maltego	|🔹SQL Map|	🔹Hashcat	|🔹AppScan|
+|🔹TheHavester|	🔹ZAP	|🔹OPHCrack	|🔹LYNIS|
+|🔹Recon-NG	|🔹ExploitDB	|🔹Medusa	|🔹Retina|
+|🔹Amass	|🔹Core Impact 	|🔹THC-Hydra| 	
+|🔹Censys	|🔹Cobalt Strike	|🔹Cain & Abel	|
+|🔹OSINT Framework| 			
+|🔹Gobuster| 			
+			
+|🔶Software Engineering	|🔶Forensics	|🔶Wireless Hacking	|🔶Web Application Assessment|
+|🔹GoPhish	🔹SluethKit	🔹Aircrack-NG	🔹OWASP ZAP
+|🔹HiddenEye	|🔹Autopsy|	🔹Wifite 	|🔹Burp Suite|
+|🔹SocialFish	|🔹Volatility 	|🔹Kismet	|🔹Nikto|
+|🔹EvilURL	|🔹Guymager	|🔹TCPDump	|🔹ZAP|
+|🔹Evilginx	|🔹Foremost	|🔹Airsnort	|🔹WPScan|
+|🔹Binwalk	|🔹Netstumbler	|🔹Gobuster
+|🔹Wireshark 	|🔹Reaver	|🔹App Spider|
+
+
