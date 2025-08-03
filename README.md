@@ -94,6 +94,19 @@ https://www.deeplearning.ai/short-courses/ai-python-for-beginners/
 
 5. Machine learning Course : https://mlcourse.ai/book/index.html
 
+6. https://www.datacamp.com/blog/machine-learning-projects-for-all-levels
+
+7. https://github.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code
+
+8. https://github.com/veb-101/Data-Science-Projects
+
+9. https://www.projectpro.io/projects/data-science-projects
+
+10. Emma Ding : https://www.youtube.com/watch?v=i5a8ngrAjnI
+
+11. Ken jee : https://www.youtube.com/watch?v=PWmxLYTixAM
+
+12. Krishnaik : https://www.youtube.com/watch?v=wr6Abu-aDsA
    
 
 **C. DEVOPS, SRE, AUTOMATION**
